@@ -26,8 +26,8 @@ color: #594100;
 .spotify-iframe {
   border-radius: 12px;
   margin-top: 40px;
-  width: 352px; /* Make width equal to height */
-  height: 352px; /* Keep the height the same */
+  width: 352px; 
+  height: 352px; 
 }
 
 
