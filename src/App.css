@@ -1,0 +1,57 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #FFDBDB;
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0, auto;
+  text-align: center;
+}
+.header-header {
+font-weight: bold;
+text-align: center;
+font-size: 80px;
+}
+
+
+.feeling-button{
+font-size: 40px;
+text-align: center;
+color: #594100;
+}
+
+.spotify-iframe {
+  border-radius: 12px;
+  margin-top: 40px;
+  width: 352px; /* Make width equal to height */
+  height: 352px; /* Keep the height the same */
+}
+
+
+.mood-button {
+  text-align: center;
+}
+
+.header-p2 {
+  text-align: center;
+  font-size: 15px;
+  color: #644A07;
+  margin-top: 100px;
+}
+
+.art {
+  text-align: center;
+  color: #594100;
+  margin-top: 100px;
+
+}
+
+.copyright {
+  text-align: center;
+  margin-top: 100px;
+}
+
+
